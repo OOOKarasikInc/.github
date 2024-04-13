@@ -13,6 +13,8 @@
 <br>
 **Организация**: https://github.com/OOOKarasikInc<br>
 Пишите Гитхаб аккаунты, принимаются все.<br>
+На почту: anonanonovoookarasikinc@gmail.com"
+Или в тред: https://2ch.hk/pr/res/3121177.html
 Создавайте любые репозитории, на любых языках, стеках, с любым стилем написанием кода.<br>
 <br>
 <br>
