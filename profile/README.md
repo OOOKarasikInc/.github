@@ -13,8 +13,8 @@
 <br>
 **Организация**: https://github.com/OOOKarasikInc<br>
 Пишите Гитхаб аккаунты, принимаются все.<br>
-На почту: anonanonovoookarasikinc@gmail.com"
-Или в тред: https://2ch.hk/pr/res/3121177.html
+На почту: anonanonovoookarasikinc@gmail.com<br>
+Или в тред: https://2ch.hk/pr  /ideasinc/<br>
 Создавайте любые репозитории, на любых языках, стеках, с любым стилем написанием кода.<br>
 <br>
 <br>
@@ -43,6 +43,8 @@
 
 [b]Организация[/b]: https://github.com/OOOKarasikInc
 Пишите Гитхаб аккаунты, принимаются все.
+На почту: anonanonovoookarasikinc@gmail.com
+Или в тред: https://2ch.hk/pr  /ideasinc/
 Создавайте любые репозитории, на любых языках, стеках, с любым стилем написанием кода.
 
 
